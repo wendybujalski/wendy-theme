@@ -1,0 +1,21 @@
+{
+  "name": "wendy-theme",
+  "displayName": "Wendy's Theme",
+  "description": "VSCode Color Theme For Wendy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wendy's Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Wendy's Theme-color-theme.json"
+      }
+    ]
+  }
+}
